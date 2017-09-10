@@ -1,2 +1,3 @@
 - [ ] CVS by tutorials
-- [ ] Fortrna for fun and profit
+- [ ] Fortran for fun and profit
+- [x] Swift
